@@ -4,13 +4,12 @@
 
 ---
 
-## Overview / Value Proposition
-
+## Overview
 Testing machine learning models during early exploration often requires repetitive script execution, manual dataset loading, and cumbersome parameter tweaking. This creates friction when validating baseline algorithms or inspecting vector spaces. `iris-metric-inspector` eliminates this operational overhead by combining automated dataset partitioning, model training, accuracy evaluation, and an interactive prediction loop into a single, cohesive command-line utility.
 
 ---
 
-## Under the Hood / How It Works
+## How It Works
 
 The execution pipeline operates through sequential, well-defined phases managed within standard Python streams:
 

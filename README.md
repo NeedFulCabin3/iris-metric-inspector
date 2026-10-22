@@ -1,4 +1,4 @@
-# iris-metric-inspector
+# Iris Metric inspector
 
 > Automated botanical classification engine leveraging nearest-neighbor metric analysis and continuous terminal evaluation loops.
 
